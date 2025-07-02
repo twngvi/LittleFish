@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace App
+{
+    public partial class frmDoanhthu : Form
+    {
+        public frmDoanhthu()
+        {
+            InitializeComponent();
+        }
+
+        private void frmDoanhthu_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

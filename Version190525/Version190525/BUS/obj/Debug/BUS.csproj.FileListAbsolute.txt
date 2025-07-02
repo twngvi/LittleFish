@@ -1,0 +1,373 @@
+E:\linhtalinhtinh\1_C#\Version090525\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version090525\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version090525\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version090525\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version090525\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version090525\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version090525\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version090525\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version090525\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version090525\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version090525\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version090525\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version090525\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version100525\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version100525\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version100525\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version100525\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version100525\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version100525\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version100525\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version100525\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version100525\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version100525\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version100525\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version100525\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version100525\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version110525\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version110525\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version110525\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version110525\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version110525\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version110525\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version110525\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version110525\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version110525\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version110525\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version110525\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version110525\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version110525\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version120525\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version120525\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version120525\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version120525\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version120525\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version120525\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version120525\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version120525\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version120525\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version120525\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version120525\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version120525\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version120525\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version120525 - 2\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version130525\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version130525\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version130525\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version150525\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version150525\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version150525\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version150525\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version150525\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version150525\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version150525\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version150525\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version150525\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version150525\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version150525\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version150525\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version150525\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\BUS\obj\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\obj\Debug\BUS.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\obj\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\BUS\obj\Debug\BUS.pdb
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\BUS.dll
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\BUS.pdb
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\BouncyCastle.Cryptography.dll
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\DAL.dll
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\DTO.dll
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\itextsharp.dll
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\DAL.pdb
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\DTO.pdb
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\BouncyCastle.Cryptography.xml
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\itextsharp.xml
+D:\LTGDUD\Version190525\Version190525\BUS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\LTGDUD\Version190525\Version190525\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\LTGDUD\Version190525\Version190525\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LTGDUD\Version190525\Version190525\BUS\obj\Debug\BUS.csproj.Up2Date
+D:\LTGDUD\Version190525\Version190525\BUS\obj\Debug\BUS.dll
+D:\LTGDUD\Version190525\Version190525\BUS\obj\Debug\BUS.pdb

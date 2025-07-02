@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTGDUD\\Version190525\\Version190525\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App_Updated\\App\\App.csproj|d:\\ltgdud\\version190525\\version190525\\app_updated\\app\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App_Updated\\App\\App.csproj|solutionrelative:app_updated\\app\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App_Updated\\App\\App.csproj|d:\\ltgdud\\version190525\\version190525\\app_updated\\app\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App_Updated\\App\\App.csproj|solutionrelative:app_updated\\app\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525\\Version190525\\App_Updated\\App\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "App_Updated\\App\\frmAdmin.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525\\Version190525\\App_Updated\\App\\frmAdmin.cs",
+              "RelativeToolTip": "App_Updated\\App\\frmAdmin.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAUwHMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:23:49.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseForm.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525\\Version190525\\App_Updated\\App\\BaseForm.cs",
+              "RelativeDocumentMoniker": "App_Updated\\App\\BaseForm.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525\\Version190525\\App_Updated\\App\\BaseForm.cs",
+              "RelativeToolTip": "App_Updated\\App\\BaseForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:01:26.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

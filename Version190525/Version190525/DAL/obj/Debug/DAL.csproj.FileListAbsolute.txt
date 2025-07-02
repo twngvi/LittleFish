@@ -1,0 +1,275 @@
+E:\linhtalinhtinh\1_C#\Version090525\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version090525\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version090525\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version090525\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version090525\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version090525\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version090525\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version090525\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version090525\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version090525\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version090525\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version100525\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version100525\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version100525\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version100525\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version100525\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version100525\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version100525\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version100525\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version100525\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version100525\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version100525\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version110525\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version110525\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version110525\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version110525\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version110525\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version110525\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version110525\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version110525\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version110525\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version110525\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version110525\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version120525\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version120525\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version120525\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version120525\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version150525\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version150525\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version150525\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version150525\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version150525\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version150525\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version150525\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version150525\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version150525\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version150525\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version150525\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 5\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DAL\obj\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\obj\Debug\DAL.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\obj\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\DAL\obj\Debug\DAL.pdb
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\DAL.dll
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\DAL.pdb
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\BouncyCastle.Cryptography.dll
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\DTO.dll
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\itextsharp.dll
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\DTO.pdb
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\BouncyCastle.Cryptography.xml
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\itextsharp.xml
+D:\LTGDUD\Version190525\Version190525\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\LTGDUD\Version190525\Version190525\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\LTGDUD\Version190525\Version190525\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\LTGDUD\Version190525\Version190525\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\LTGDUD\Version190525\Version190525\DAL\obj\Debug\DAL.dll
+D:\LTGDUD\Version190525\Version190525\DAL\obj\Debug\DAL.pdb

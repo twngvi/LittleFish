@@ -1,0 +1,190 @@
+E:\linhtalinhtinh\1_C#\Version090525\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version090525\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version090525\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version090525\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version090525\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version090525\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version090525\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version090525\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version090525\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version100525\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version100525\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version100525\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version100525\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version100525\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version100525\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version100525\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version100525\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version100525\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version110525\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version110525\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version110525\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version110525\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version110525\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version110525\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version110525\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version110525\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version110525\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version120525\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version120525\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version120525\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version120525\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version120525\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version120525\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version120525\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version120525\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version120525\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525 -2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525 -2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525 -2\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525 -2\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version150525\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version150525\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version150525\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version150525\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version150525\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version150525\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version150525\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version150525\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version150525\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525\DTO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525\DTO\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525\DTO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525\DTO\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\DTO\obj\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\obj\Debug\DTO.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\obj\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\DTO\obj\Debug\DTO.pdb
+D:\LTGDUD\Version190525\Version190525\DTO\bin\Debug\DTO.dll
+D:\LTGDUD\Version190525\Version190525\DTO\bin\Debug\DTO.pdb
+D:\LTGDUD\Version190525\Version190525\DTO\bin\Debug\BouncyCastle.Cryptography.dll
+D:\LTGDUD\Version190525\Version190525\DTO\bin\Debug\itextsharp.dll
+D:\LTGDUD\Version190525\Version190525\DTO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\LTGDUD\Version190525\Version190525\DTO\bin\Debug\BouncyCastle.Cryptography.xml
+D:\LTGDUD\Version190525\Version190525\DTO\bin\Debug\itextsharp.xml
+D:\LTGDUD\Version190525\Version190525\DTO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\LTGDUD\Version190525\Version190525\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\LTGDUD\Version190525\Version190525\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\LTGDUD\Version190525\Version190525\DTO\obj\Debug\DTO.csproj.Up2Date
+D:\LTGDUD\Version190525\Version190525\DTO\obj\Debug\DTO.dll
+D:\LTGDUD\Version190525\Version190525\DTO\obj\Debug\DTO.pdb

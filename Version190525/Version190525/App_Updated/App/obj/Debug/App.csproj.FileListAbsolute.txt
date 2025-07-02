@@ -1,0 +1,1017 @@
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version090525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version090525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version090525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version090525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version090525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version090525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version090525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version090525\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version090525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version090525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version100525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version100525\App\obj\Debug\App.frmMain.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version110525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.frmMain.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version110525\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version120525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.frmMain.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version120525\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmMain.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version120525 - 2\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmMain.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version130525\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmMain.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version130525 -2\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmMain.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version130525 - 3\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmMain.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 2\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmMain.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version140525 - 3\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 4\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version140525 - 6\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version150525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmKho.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version150525\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 2\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.frmThongTinSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525 - 3\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.frmThongTinSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525 - 4\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version160525 - 5\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version170525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version170525\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version170525 - 2\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 2\App\obj\Debug\App.frmDoanhthu.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmDoanhthu.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 3\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmDoanhthu.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 4\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmDoanhthu.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 5\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmDoanhthu.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 7\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmDoanhthu.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 8\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmDoanhthu.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version180525 - 9\App\obj\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\App.exe.config
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\App.pdb
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\BouncyCastle.Cryptography.dll
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\BUS.dll
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\DAL.dll
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\DTO.dll
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\itextsharp.dll
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\BUS.pdb
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\DAL.pdb
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\DTO.pdb
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\BouncyCastle.Cryptography.xml
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\itextsharp.xml
+E:\linhtalinhtinh\1_C#\Version190525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.csproj.AssemblyReference.cache
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmDoanhthu.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmXemHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmChiTietHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmAdmin.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmBanHang.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmHoaDon.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmKhoXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmLogin.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmNhanVien.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmQuickAddAccount.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmSach.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmTaiKhoan.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmBHXemTTSach.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.Properties.Resources.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.test.resources
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.csproj.GenerateResource.cache
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.csproj.Up2Date
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.exe
+E:\linhtalinhtinh\1_C#\Version190525\App\obj\Debug\App.pdb
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\App.exe.config
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\App.exe
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\App.pdb
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\BouncyCastle.Cryptography.dll
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\BUS.dll
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\DAL.dll
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\DTO.dll
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\itextsharp.dll
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\BUS.pdb
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\DAL.pdb
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\DTO.pdb
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\BouncyCastle.Cryptography.xml
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\itextsharp.xml
+D:\LTGDUD\Version190525\Version190525\App\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.BaseForm.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmDoanhthu.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmXemHoaDon.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmChiTietHoaDon.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmAdmin.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmHoaDon.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmKhoXemTTSach.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmLogin.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmNhanVien.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmNhapSach.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmQuickAddAccount.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmSach.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmTaiKhoan.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmBHXemTTSach.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.Properties.Resources.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.test.resources
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.csproj.Up2Date
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.exe
+D:\LTGDUD\Version190525\Version190525\App\obj\Debug\App.pdb
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\bin\Debug\App.exe.config
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\bin\Debug\App.exe
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\bin\Debug\App.pdb
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\bin\Debug\BUS.dll
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\bin\Debug\DAL.dll
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\bin\Debug\DTO.dll
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\bin\Debug\BUS.pdb
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\bin\Debug\DAL.pdb
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\bin\Debug\DTO.pdb
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.BaseForm.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmDoanhthu.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmXemHoaDon.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmChiTietHoaDon.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmAdmin.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmHoaDon.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmKhoXemTTSach.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmLogin.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmNhanVien.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmNhapSach.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmQuickAddAccount.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmSach.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmTaiKhoan.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmBHXemTTSach.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.frmXemPhieuNhapSach.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.Properties.Resources.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.test.resources
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.csproj.Up2Date
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.exe
+D:\LTGDUD\Version190525\Version190525\App_Updated\App\obj\Debug\App.pdb

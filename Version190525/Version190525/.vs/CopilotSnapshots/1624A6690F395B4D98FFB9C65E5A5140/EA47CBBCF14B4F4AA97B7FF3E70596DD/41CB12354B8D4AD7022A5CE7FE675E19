@@ -1,0 +1,60 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Configuration;
+using System.Data;
+using System.Data.SqlClient;
+using DTO;
+
+public class SachBUS
+{
+    private SachDAL dal = new SachDAL();
+
+    public DataTable LayDanhSachSach()
+    {
+        return dal.LayDanhSachSach();
+    }
+
+    public bool ThemSach(SachDTO s) => dal.ThemSach(s);
+    public bool SuaSach(SachDTO s) => dal.SuaSach(s);
+    public bool XoaSach(string maSach)
+    {
+        if (CoLienKetNhapSachOrHoaDon(maSach))
+            return false; // Không xóa nếu có liên kết
+
+        return dal.XoaSach(maSach);
+    }
+    public bool KinhDoanhLai(string maSach)
+    {
+        return dal.CapNhatTrangThaiNgungKinhDoanh(maSach, false);
+    }
+    public List<SachDTO> TimKiemSach(string tuKhoa)
+    {
+        return dal.TimKiemSach(tuKhoa);
+    }
+    public SachDTO LaySachTheoMa(string maSach)
+    {
+        return dal.LaySachTheoMa(maSach);
+    }
+    public bool CapNhatSoLuong(string maSach, int soLuongMoi)
+    {
+        SachDAL sachDAL = new SachDAL();
+        return sachDAL.CapNhatSoLuong(maSach, soLuongMoi);
+    }
+    public DataTable LayDanhSachSachDangKinhDoanh()
+    {
+        return dal.LayDanhSachSachDangKinhDoanh();
+    }
+
+    public bool CapNhatTrangThaiNgungKinhDoanh(string maSach, bool ngungKinhDoanh)
+    {
+        return dal.CapNhatTrangThaiNgungKinhDoanh(maSach, ngungKinhDoanh);
+    }
+
+    public bool CoLienKetNhapSachOrHoaDon(string maSach)
+    {
+        return dal.CoLienKetNhapSachOrHoaDon(maSach);
+    }
+
+
+
+}
