@@ -1,0 +1,59 @@
+﻿namespace App
+{
+    partial class frmDoanhthu
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        private System.Windows.Forms.TextBox txtDoanhThu;
+        private System.Windows.Forms.TextBox txtLoiNhuan;
+        private System.Windows.Forms.TextBox txtSoHoaDon;
+        private System.Windows.Forms.TextBox txtSoSachBan;
+        private System.Windows.Forms.Button btnLocNgay;
+        private System.Windows.Forms.Button btnLocThang;
+        private System.Windows.Forms.Button btnLocNam;
+        private System.Windows.Forms.Button btnLoc3Ngay;
+        private System.Windows.Forms.Button btnLoc7Ngay;
+        private System.Windows.Forms.ListView lvTopBanChay;
+        private System.Windows.Forms.ListView lvTopBanIt;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // frmDoanhthu
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1032, 603);
+            this.Name = "frmDoanhthu";
+            this.Text = "frmDoanhthu";
+            this.Load += new System.EventHandler(this.frmDoanhthu_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+    }
+}

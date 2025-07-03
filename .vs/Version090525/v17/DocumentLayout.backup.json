@@ -1,0 +1,515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTGDUD\\Version190525 - 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmxemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmxemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmxemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmxemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmxemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmxemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmxemphieunhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmxemphieunhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmxemphieunhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmxemphieunhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmnhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmnhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmnhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmnhapsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|D:\\LTGDUD\\Version190525 - 2\\app\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|D:\\LTGDUD\\Version190525 - 2\\app\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmkhoxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmkhoxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmkhoxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmkhoxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmdoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\frmbhxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmbhxemttsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12362DF3-FE9D-413B-A495-BBD8B3A035F8}|DAL\\DAL.csproj|d:\\ltgdud\\version190525 - 2\\dal\\sachdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12362DF3-FE9D-413B-A495-BBD8B3A035F8}|DAL\\DAL.csproj|solutionrelative:dal\\sachdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12362DF3-FE9D-413B-A495-BBD8B3A035F8}|DAL\\DAL.csproj|d:\\ltgdud\\version190525 - 2\\dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12362DF3-FE9D-413B-A495-BBD8B3A035F8}|DAL\\DAL.csproj|solutionrelative:dal\\hoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12362DF3-FE9D-413B-A495-BBD8B3A035F8}|DAL\\DAL.csproj|d:\\ltgdud\\version190525 - 2\\dal\\chitiethoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12362DF3-FE9D-413B-A495-BBD8B3A035F8}|DAL\\DAL.csproj|solutionrelative:dal\\chitiethoadondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|d:\\ltgdud\\version190525 - 2\\app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|D:\\LTGDUD\\Version190525 - 2\\app\\frmquickaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{980DFB48-4FBD-41FF-B99A-CAD0C9A85C59}|App\\App.csproj|solutionrelative:app\\frmquickaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 265,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "App\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmTaiKhoan.cs",
+              "RelativeToolTip": "App\\frmTaiKhoan.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAwN8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:09:14.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmXemHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "App\\frmXemHoaDon.Designer.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemHoaDon.Designer.cs",
+              "RelativeToolTip": "App\\frmXemHoaDon.Designer.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAwwLcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:02:42.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmXemPhieuNhapSach.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemPhieuNhapSach.cs",
+              "RelativeDocumentMoniker": "App\\frmXemPhieuNhapSach.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemPhieuNhapSach.cs [Design]",
+              "RelativeToolTip": "App\\frmXemPhieuNhapSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:52:17.702Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmXemHoaDon.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemHoaDon.cs",
+              "RelativeDocumentMoniker": "App\\frmXemHoaDon.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemHoaDon.cs",
+              "RelativeToolTip": "App\\frmXemHoaDon.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAcwLkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:48:52.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmXemHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemHoaDon.cs",
+              "RelativeDocumentMoniker": "App\\frmXemHoaDon.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemHoaDon.cs [Design]",
+              "RelativeToolTip": "App\\frmXemHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:48:51.333Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "App\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmTaiKhoan.cs [Design]",
+              "RelativeToolTip": "App\\frmTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:42:44.888Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmXemPhieuNhapSach.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemPhieuNhapSach.cs",
+              "RelativeDocumentMoniker": "App\\frmXemPhieuNhapSach.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmXemPhieuNhapSach.cs",
+              "RelativeToolTip": "App\\frmXemPhieuNhapSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:52:19.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmSach.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmSach.cs",
+              "RelativeDocumentMoniker": "App\\frmSach.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmSach.cs [Design]",
+              "RelativeToolTip": "App\\frmSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:40:16.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmNhapSach.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmNhapSach.cs",
+              "RelativeDocumentMoniker": "App\\frmNhapSach.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmNhapSach.cs",
+              "RelativeToolTip": "App\\frmNhapSach.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAD4v90AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:27:49.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmNhapSach.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmNhapSach.cs",
+              "RelativeDocumentMoniker": "App\\frmNhapSach.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmNhapSach.cs [Design]",
+              "RelativeToolTip": "App\\frmNhapSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:27:47.379Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmLogin.cs",
+              "RelativeDocumentMoniker": "App\\frmLogin.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmLogin.cs",
+              "RelativeToolTip": "App\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:20:32.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmLogin.cs",
+              "RelativeDocumentMoniker": "App\\frmLogin.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmLogin.cs [Design]",
+              "RelativeToolTip": "App\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:20:30.899Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmKhoXemTTSach.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmKhoXemTTSach.cs",
+              "RelativeDocumentMoniker": "App\\frmKhoXemTTSach.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmKhoXemTTSach.cs",
+              "RelativeToolTip": "App\\frmKhoXemTTSach.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAuwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:18:52.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmSach.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmSach.cs",
+              "RelativeDocumentMoniker": "App\\frmSach.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmSach.cs",
+              "RelativeToolTip": "App\\frmSach.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:59:11.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmKhoXemTTSach.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmKhoXemTTSach.cs",
+              "RelativeDocumentMoniker": "App\\frmKhoXemTTSach.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmKhoXemTTSach.cs [Design]",
+              "RelativeToolTip": "App\\frmKhoXemTTSach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:18:50.517Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "App\\frmHoaDon.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmHoaDon.cs",
+              "RelativeToolTip": "App\\frmHoaDon.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:14:03.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "App\\frmNhanVien.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmNhanVien.cs [Design]",
+              "RelativeToolTip": "App\\frmNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:29:53.363Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmNhanVien.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmNhanVien.cs",
+              "RelativeDocumentMoniker": "App\\frmNhanVien.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmNhanVien.cs",
+              "RelativeToolTip": "App\\frmNhanVien.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAuwHwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:10:58.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "App\\frmHoaDon.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "App\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:14:02.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmDoanhthu.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmDoanhthu.cs",
+              "RelativeDocumentMoniker": "App\\frmDoanhthu.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmDoanhthu.cs",
+              "RelativeToolTip": "App\\frmDoanhthu.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAkwCMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:06:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmDoanhthu.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmDoanhthu.cs",
+              "RelativeDocumentMoniker": "App\\frmDoanhthu.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmDoanhthu.cs [Design]",
+              "RelativeToolTip": "App\\frmDoanhthu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:06:00.432Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "App\\frmChiTietHoaDon.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmChiTietHoaDon.cs",
+              "RelativeToolTip": "App\\frmChiTietHoaDon.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:01:42.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "App\\frmChiTietHoaDon.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "App\\frmChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T05:01:40.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SachDAL.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\DAL\\SachDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\SachDAL.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\DAL\\SachDAL.cs",
+              "RelativeToolTip": "DAL\\SachDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:59:28.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HoaDonDAL.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\DAL\\HoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\HoaDonDAL.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\DAL\\HoaDonDAL.cs",
+              "RelativeToolTip": "DAL\\HoaDonDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:59:23.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChiTietHoaDonDAL.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\DAL\\ChiTietHoaDonDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ChiTietHoaDonDAL.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\DAL\\ChiTietHoaDonDAL.cs",
+              "RelativeToolTip": "DAL\\ChiTietHoaDonDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:59:17.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\App.config",
+              "RelativeDocumentMoniker": "App\\App.config",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\App.config",
+              "RelativeToolTip": "App\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-19T04:58:18.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmBHXemTTSach.cs",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmBHXemTTSach.cs",
+              "RelativeDocumentMoniker": "App\\frmBHXemTTSach.cs",
+              "ToolTip": "D:\\LTGDUD\\Version190525 - 2\\App\\frmBHXemTTSach.cs",
+              "RelativeToolTip": "App\\frmBHXemTTSach.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwv5UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:55:33.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmQuickAddAccount.cs [Design]",
+              "DocumentMoniker": "D:\\LTGDUD\\Version190525 - 2\\App\\frmQuickAddAccount.cs",
+              "RelativeDocumentMoniker": "App\\frmQuickAddAccount.cs",
+              "ToolTip": "E:\\linhtalinhtinh\\1_C#\\Version190525\\App\\frmQuickAddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T03:10:48.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

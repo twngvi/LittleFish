@@ -1,0 +1,49 @@
+﻿    using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace App
+{
+    public partial class frmXemNhapSach : Form
+    {
+        public frmXemNhapSach()
+        {
+            InitializeComponent();
+        }
+
+        private void frmXemNhapSach_Load(object sender, EventArgs e)
+        {
+            LoadPhieuNhap();
+        }
+
+        private void LoadPhieuNhap()
+        {
+            // TODO: Replace this with actual data retrieval from your data source
+            // Example: DataTable dt = PhieuNhapBUS.LayTatCaPhieuNhap();
+            var dt = new DataTable();
+            dt.Columns.Add("Mã nhập");
+            dt.Columns.Add("Mã sách");
+            dt.Columns.Add("Tên sách");
+            dt.Columns.Add("Số lượng");
+            dt.Columns.Add("Giá nhập");
+            dt.Columns.Add("Ngày nhập");
+
+            // Sample data for demonstration
+            dt.Rows.Add("PN001", "S001", "Lập trình C#", 10, 50000, DateTime.Now.ToShortDateString());
+            dt.Rows.Add("PN002", "S002", "Cơ sở dữ liệu", 5, 60000, DateTime.Now.ToShortDateString());
+
+            dgvPhieuNhap.DataSource = dt;
+        }
+
+        private void dgvPhieuNhap_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+    }
+}
